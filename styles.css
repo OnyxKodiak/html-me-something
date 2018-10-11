@@ -1,0 +1,40 @@
+header{
+	text-align: center;
+}
+header,
+main,
+footer {
+	background-color: lightgreen;
+}
+body{
+	background-color: darkgreen;
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+}
+nav ul {
+	text-align: center;
+	padding: 0;
+}
+
+nav ul li {
+	margin-right: 10px;
+	font-size: 15px;
+}
+
+footer{
+	text-align: right;
+}
+
+img {
+	width: 20%;
+	max-width: 20%;
+}
+
+.title{
+	font-style: bold;
+}
+
+#goals{
+	margin: 10px 0;
+}
